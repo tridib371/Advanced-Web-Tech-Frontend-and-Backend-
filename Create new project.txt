@@ -1,0 +1,14 @@
+nest new .
+
+npm
+
+code .
+
+
+npm install
+npm run start:dev
+
+
+
+
+
